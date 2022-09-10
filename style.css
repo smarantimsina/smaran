@@ -1,0 +1,21 @@
+body {
+    font-family: 'Merriweather', serif
+}
+.main-container {
+    background-color:#fcf7e8;
+    border-radius:20px;
+    padding:420px;
+}
+#sspt {
+    font-size:2px;
+}
+#timg {
+    width:50px;
+    position: relative;
+    top: 20px;
+    padding-right:10px;
+}
+#links {
+    color:black;
+    text-decoration: none;
+}
